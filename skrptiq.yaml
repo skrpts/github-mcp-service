@@ -1,0 +1,39 @@
+# --- Identity ---
+name: "github-mcp-service"
+display_name: "GitHub MCP Service"
+description: "Shared service definition for the GitHub MCP server"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/github-mcp-service"
+
+# --- Discovery (Hub) ---
+category: "shared"
+tags:
+  - "mcp"
+  - "github"
+  - "version-control"
+
+# --- Security & Access ---
+requires:
+  services: []
+  permissions:
+    - "network:github.com"
+  data_handling: []
+
+# --- Contents ---
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 1
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
