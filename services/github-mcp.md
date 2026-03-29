@@ -3,7 +3,7 @@ type: service
 id: github-mcp
 title: GitHub MCP
 description: "GitHub MCP server for repository interactions"
-tags: [Production, technical:code]
+tags: [Production, Code]
 connections: []
 ---
 
