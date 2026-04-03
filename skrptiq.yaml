@@ -3,7 +3,7 @@ id: "4c9804aa-4fa7-4a8b-a8ac-9c1641a70a44"
 name: "github-mcp-service"
 display_name: "GitHub MCP Service"
 description: "Shared service definition for the GitHub MCP server"
-version: "1.0.0"
+version: "1.1.0"
 engine: ">=1.0.0"
 
 # --- Attribution ---
